@@ -21,6 +21,9 @@ const str = '${{ GITHUB_API_TOKEN }} - ${{ afei }}';
 nx.multipleExec(re, str);     // [ ' GITHUB_API_TOKEN ', ' afei ' ]
 ```
 
+## resources
+- https://stackoverflow.com/questions/7954022/javascript-regular-expression-multiple-match
+
 ## license
 Code released under [the MIT license](https://github.com/afeiship/next-multiple-exec/blob/master/LICENSE.txt).
 
