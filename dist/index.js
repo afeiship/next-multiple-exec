@@ -3,7 +3,7 @@
  * description: Multiple exec for regexp.
  * homepage: https://github.com/afeiship/next-multiple-exec
  * version: 1.0.0
- * date: 2020-11-20 18:02:44
+ * date: 2020-11-20 18:10:03
  * license: MIT
  */
 
