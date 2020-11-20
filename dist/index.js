@@ -1,15 +1,15 @@
 /*!
- * name: @feizheng/next-multiple-exec
+ * name: @jswork/next-multiple-exec
  * description: Multiple exec for regexp.
  * homepage: https://github.com/afeiship/next-multiple-exec
  * version: 1.0.0
- * date: 2020-07-17T03:07:40.944Z
+ * date: 2020-11-20 18:02:44
  * license: MIT
  */
 
 (function () {
   var global = global || this || window || Function('return this')();
-  var nx = global.nx || require('@feizheng/next-js-core2');
+  var nx = global.nx || require('@jswork/next');
   var DEFAULT_OPTIONS = {
     transform: function (inValue) {
       return inValue[1];
